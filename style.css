@@ -85,5 +85,6 @@ button > a{
     .rightmainform{
         justify-content: center;
         padding-left: 5px;
+        margin-left: 40px;
     }
 }
