@@ -1,0 +1,80 @@
+h2{
+    color: blue;
+}
+.container{
+    border: 200px;
+}
+.login{
+    display: inline;
+    border: none;
+    background-color: #2175f2;
+    border-radius: 10px;
+    width: 210px;
+    margin-bottom: 10px;
+}
+.login:hover{
+    background-color: rgb(19, 141, 212);
+}
+.rightmainform{
+    display: inline-block;
+    width: 400px;
+    /*border: 2px solid gray;*/
+    height: 500px;
+    border-radius: 10px;
+    /* box-shadow: 2px green ; */
+   /* box-shadow: 5px 5px gray ;*/
+    
+    margin-left: 100px;
+    padding-left: 40px;
+    
+}
+/* a{  color: black;
+    text-decoration: none;
+    color: rgb(43, 137, 245); 
+} */
+.btn-btn-primary{
+    border: none;
+    width: 105px;
+    height: 25px;
+    padding-top: 0px;
+    margin-left: 5px;
+    background-color:#0d6efd;
+    border-radius: 4px;
+    
+}
+button > a{
+    text-decoration:none;
+    color: rgb(255, 255, 255);
+}
+.mainform{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.leftmainform
+{
+    /* border: 2px solid yellow; */
+    width: 400px;
+    height: 400px;
+    height: 55vh;
+    
+}
+
+/* .btn-btn-primary{
+    color: white;
+    border-radius: 10px;
+} */
+
+.paragraph{
+    display: inline;
+}
+
+.img-fluid{
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 200px;
+}
